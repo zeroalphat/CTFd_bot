@@ -1,1 +1,2 @@
-# CTFd_bot
+#CTFd_bot
+CTFdでFlagの取得状況をいい感じに習得できるAPIがなかったので、Flagの取得状況をslackに通知するアプリです。
